@@ -1,4 +1,4 @@
-# Airbnb-Price-Prediction-San-Diego
+# Airbnb Price Prediction San Diego
 
 👉 [View the Project Notebook](Airbnb_GroupProject.ipynb)
 
