@@ -8,7 +8,7 @@ This university project focuses on predicting Airbnb accommodation prices in San
 The main goal was to understand which factors influence Airbnb prices and to build and compare predictive models that incorporate both property characteristics and nearby Points of Interest (POIs).
 
  ## Data
- The study is based on a dataset Airbnb listings in San Diego
+ The study is based on a dataset of Airbnb listings in San Diego
 
  ## Methodology
  ### Data Preprocessing
