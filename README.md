@@ -11,11 +11,6 @@ The main goal was to understand which factors influence Airbnb prices and to bui
  The study is based on a dataset of Airbnb listings in San Diego
 
  ## Methodology
- ### Data Preprocessing
-- Handling missing values
-- Encoding categorical variables
-- Outlier removal
-
 ### Exploratory Data Analysis (EDA)
 - Summary statistics, histograms, and correlation analysis.
 - Visualization of Airbnb listings on a basemap of San Diego.
